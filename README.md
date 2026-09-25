@@ -1,1 +1,5 @@
-# Senior_Project_Part1
+# Power Grid Cyber Risk and Anomaly Detection Using Power Grid Simulations and Real-Time Analysis 
+#ABSTRACT
+# By
+# Alina C.  Lara, Audrey Flores, Brian Martinez, Brooklyn Stitt
+ #	Recently, the expansion of AI infrastructure has created new cybersecurity vulnerabilities in power grids. Conventional machine learning models are often implemented to detect anomalies but lack the contextual grid awareness required for a dependable # alert and defense system. However, the goal of this project is to design and implement an AI-integrated cyber defense and alert system for power grids. To improve detection accuracy and dependability, this project introduces a real-time cyber defense #system that models power grids as an interconnected topology utilizing network and electrical data. The integrated model is then trained to simultaneously detect physical faults and cybersecurity attacks in real time. Upon detection, the grid-aware decision logic will localize the affected component, determine whether it should be isolated, and calculate a safe recovery or rerouting response. This system was evaluated based on detection accuracy, response time, localization accuracy, system stability, and resilience to coordinated attacks.
